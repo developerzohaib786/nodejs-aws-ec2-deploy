@@ -4,7 +4,7 @@ const PORT = 3000;
 
 // The "Home" route
 app.get('/', (req, res) => {
-  res.send('Hello, World! Your Node app is officially alive.');
+  res.send('Hello, World! Your Node app is officially alive. github ci successful');
 });
 
 // Start the server
